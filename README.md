@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## [過去にやったこと](https://github.com/nntto/portfolio)
 ## [github](./github/README.md)
 
 [![](https://raw.githubusercontent.com/nntto/nntto/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
